@@ -54,8 +54,8 @@ Majority of customers are aged 30–40.
 Python, Pandas, NumPy, Matplotlib, Seaborn, SQLAlchemy, SQLite, Logging
 
 ▶️ How to Run
-git clone https://github.com/nikitaphartiyal/SQLite Database using Python.git
-cd SQLite Database using Python
+git clone https://github.com/nikitaphartiyal/SQLite-Database-using-Python.git
+cd SQLite-Database-using-Python
 pip install pandas numpy matplotlib seaborn sqlalchemy
 python untitled5.py
 
